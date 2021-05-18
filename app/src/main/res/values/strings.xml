@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlinLessonOne</string>
+    <string name="button_lable">Нажми меня</string>
+    <string name="buttonTwo_label">И меня нажми тоже</string>
 </resources>
