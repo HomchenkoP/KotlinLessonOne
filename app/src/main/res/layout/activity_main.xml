@@ -33,4 +33,23 @@
         android:layout_height="wrap_content"
         android:text="" />
 
+    <Button
+        android:id="@+id/buttonCopy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/buttonCopy_lable" />
+
+    <TextView
+        android:id="@+id/propertyOneCopy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/propertyTwoCopy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
 </LinearLayout>
